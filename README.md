@@ -1,4 +1,4 @@
-# ~~Disrupt~~ Harlem Code: Web Development Squad 
+# ~~Disrupt~~ Harlem Code Squad: Web Development 
 
 
 
