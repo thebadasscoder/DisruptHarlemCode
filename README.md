@@ -11,10 +11,10 @@ This will be your go-to guide for resources and keeping yourself updated on the 
 2. [Intro to CSS](https://www.codecademy.com/learn/introduction-to-javascript)
 3. [Breakdown of Javascript Pt.1](https://www.codecademy.com/learn/introduction-to-javascript)
 4. [Breakdown of Javascript Pt.2](https://www.codecademy.com/learn/introduction-to-javascript)
-5. [Advance Javascript Pt.1](https://www.codecademy.com/learn/introduction-to-javascript)
-6. [Advance Javascript Pt.2](https://www.codecademy.com/learn/introduction-to-javascript)
+5. [Deep Dive into JS Pt.1](https://www.codecademy.com/learn/introduction-to-javascript)
+6. [Deep Dive into JS Pt.2](https://www.codecademy.com/learn/introduction-to-javascript)
 7. [Intro to Python](https://www.codecademy.com/learn/introduction-to-javascript)
-8. [Road to React](https://www.codecademy.com/learn/introduction-to-javascript)
+8. [The Road to React](https://www.codecademy.com/learn/introduction-to-javascript)
 
 
 ## HTML & CSS 
