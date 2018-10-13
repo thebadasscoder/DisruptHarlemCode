@@ -15,6 +15,7 @@ This will be your go-to guide for resources and keeping yourself updated on the 
 6. [Deep Dive into JS Pt.2](https://www.codecademy.com/learn/introduction-to-javascript)
 7. [Intro to Python](https://www.codecademy.com/learn/introduction-to-javascript)
 8. [The Road to React](https://www.codecademy.com/learn/introduction-to-javascript)
+9. [Final Week](https://www.codecademy.com/learn/introduction-to-javascript)
 
 
 ## HTML & CSS 
