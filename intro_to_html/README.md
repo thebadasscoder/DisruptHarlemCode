@@ -11,14 +11,15 @@
 6. [HTML Skeleton Structure](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/intro_to_html.md)
 6. [About Me Project](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/intro_to_html.md)
 
-
 ## Resources 
 [CodeAcademy](https://www.codecademy.com/learn/learn-html)
 
-[CodeAcademy](https://www.codecademy.com/learn/learn-html)
+[W3 Schools: HTML Basic Guide](https://www.w3schools.com/html/html_intro.asp)
+[Techsith: Easy To Follow HTML Tutorial](https://www.youtube.com/watch?v=idHyruXhXhA)
 
-## Advanced HTML Projects
 
-[CodeAcademy](https://www.codecademy.com/learn/learn-html)
+## Other Project Challenges 
 
-[CodeAcademy](https://www.codecademy.com/learn/learn-html)
+* Resume 
+* Resturant Menu
+* To-Do List (W/ Added Functionality) 
