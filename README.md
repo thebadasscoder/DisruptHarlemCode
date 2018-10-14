@@ -35,7 +35,7 @@ This will be your go-to guide for resources and keeping yourself updated on the 
 
 
 ## Github & Command Line Basics 
-
+[Github & Command Line Guide](https://www.codecademy.com/learn/learn-html)
 
 
 
