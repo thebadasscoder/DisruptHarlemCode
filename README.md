@@ -7,15 +7,15 @@ This will be your go-to guide for resources and keeping yourself updated on the 
 
 
 ## Units  
-1. [Intro to HTML](https://www.codecademy.com/learn/introduction-to-javascript)
-2. [Intro to CSS](https://www.codecademy.com/learn/introduction-to-javascript)
-3. [Breakdown of Javascript Pt.1](https://www.codecademy.com/learn/introduction-to-javascript)
-4. [Breakdown of Javascript Pt.2](https://www.codecademy.com/learn/introduction-to-javascript)
-5. [Deep Dive into JS Pt.1](https://www.codecademy.com/learn/introduction-to-javascript)
-6. [Deep Dive into JS Pt.2](https://www.codecademy.com/learn/introduction-to-javascript)
-7. [Intro to Python](https://www.codecademy.com/learn/introduction-to-javascript)
-8. [The Road to React](https://www.codecademy.com/learn/introduction-to-javascript)
-9. [Final Week](https://www.codecademy.com/learn/introduction-to-javascript)
+1. [Intro to HTML](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/intro_to_html)
+2. [Intro to CSS](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/intro_to_css)
+3. [Breakdown of Javascript Pt.1](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/breakdown_javascript_pt1)
+4. [Breakdown of Javascript Pt.2](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/breakdown_javascript_pt2)
+5. [Deep Dive into JS Pt.1](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/deep_dive_into_js_pt1)
+6. [Deep Dive into JS Pt.2](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/deep_dive_into_js_pt2)
+7. [Intro to Python](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/python)
+8. [The Road to React(Optional)](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/road_to_react)
+9. [Final Week](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/final_week)
 
 
 ## HTML & CSS 
