@@ -15,6 +15,7 @@
 [CodeAcademy](https://www.codecademy.com/learn/learn-html)
 
 [W3 Schools: HTML Basic Guide](https://www.w3schools.com/html/html_intro.asp)
+
 [Techsith: Easy To Follow HTML Tutorial](https://www.youtube.com/watch?v=idHyruXhXhA)
 
 
