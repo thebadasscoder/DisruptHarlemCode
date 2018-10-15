@@ -2,7 +2,7 @@
 
 ## Goal
 
-Tell us a little bit more about yourself and your interest. It should include the following things down below.  
+Tell us a little bit more about yourself and your interest. It should include the following things down below. 
 
 ## The Project Should Include:  
 

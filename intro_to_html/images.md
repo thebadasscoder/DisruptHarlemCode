@@ -11,7 +11,7 @@ This tag contains attributes only and does not have a closing tag.
 
 `<img src="url">` 
 
-The `src` attribute specifies the URL(link) of the image. 
+The `src` attribute specifies the **URL(link)** of the image. 
 The `alt` provides an alternate text/name for the image. This will never been seen when an image is display on your web page. 
 
 
