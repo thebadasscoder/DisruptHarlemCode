@@ -22,7 +22,7 @@ Once those files are proceed, you will then see that amazing page being displaye
 
 ## What is HTML? 
 
-A **H**(yper) **T**(ext) **M**(ark up) **L**(anguage) that tells your web browsers how to structure your page's content. It is made up of different elements which is the building blocks of your HTML page.
+A **H(yper)** **T(ext)** **M(ark up)** **L(anguage)** that tells your web browsers how to structure your page's content. It is made up of different elements which is the building blocks of your HTML page.
 
 
 
