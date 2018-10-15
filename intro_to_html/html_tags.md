@@ -1,10 +1,9 @@
 ## List of Basic HTML Tags 
 
-An HTML element usually consists of a **start** tag and **end** tag with some information written in between. 
+An HTML element usually consists of a **start** tag and **end** tag with some information written in between. An HTML Document consist of nested HTML Elements 
 
 `<tagname> Something goes here... </tagname`
 
-An HTML Document consist of nested HTML Elements 
 
 
 ## HTML 
