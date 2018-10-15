@@ -9,15 +9,21 @@ A block-level element always starts on a new line and takes up majority of its s
 `<div>` element.
 
 `<div> Hello </div> `
+
 `<div> World </div> `
 
 ##List of Block Elements 
 
 `<section>`
+
 `<article>`
+
 `<nav>`
+
 `<table>`
+
 `<nav>`
+
 `<footer>`
 
 ## In-Line Elements 
@@ -27,8 +33,13 @@ An In-Line element does not start a new line and only takes up as much space as 
 ##List of In-Line Elements 
 
 `<label>`
+
 `<strong>`
+
 `<br>`
+
 `<button>`
+
 `<script>`
+
 `<select>`
