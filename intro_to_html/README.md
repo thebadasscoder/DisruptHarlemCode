@@ -2,13 +2,12 @@
 
 ## Contents 
 
-1. [The World Wide Web](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/intro_to_html.md)
-2. [List of Basic HTML Tags](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/intro_to_html.md)
-3. [HTML Syntax](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/intro_to_html.md)
-4. [Using Images](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/intro_to_html.md)
-5. [In-Line vs. Block Elements](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/intro_to_html.md)
-6. [HTML Skeleton Structure](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/intro_to_html.md)
-7. [About Me Project](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/intro_to_html.md)
+1. [The World Wide Web](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/the_world_wide_web.md)
+2. [HTML Syntax & Structure ](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/html_structure.md)
+3. [List of Basic HTML Tags ](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/html_tags.md)
+4. [In-Line vs. Block Elements](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/in_line_vs_block.md)
+5. [Using Images](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/images.md)
+6. [About Me Project](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/about_me.md)
 
 ## Resources 
 [CodeAcademy](https://www.codecademy.com/learn/learn-html)

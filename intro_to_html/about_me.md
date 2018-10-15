@@ -4,7 +4,7 @@
 
 Tell us a little bit more about yourself and your interest. It should include the following things down below.  
 
-## What your project should include:  
+## The Project Should Include:  
 
 * Name 
 * Hometown/City 
