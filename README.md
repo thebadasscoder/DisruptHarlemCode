@@ -34,8 +34,8 @@ This will be your go-to guide for resources and keeping yourself updated on the 
 [Free Codecamp](https://www.freecodecamp.org/)
 
 
-## Github & Command Line Basics 
-[Github & Command Line Guide](https://www.codecademy.com/learn/learn-html)
+## Github & Windows Command Line Basics 
+[Github & Command Line Guide](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/github_commandline)
 
 
 
