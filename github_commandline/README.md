@@ -25,7 +25,7 @@ A terminal also known as a command prompt(cmd) in Windows is an operating system
 
 ## Windows Terminal Commands 
 
-| Command       | 	Definition  | 
+| Command       | 	Summary  | 
 | ------------- |:-------------:| 
 | cd    		| short-hand version used to display the drive letter and folder that you are currently in.| 
 | cmd           | starts a new instance of the cmd.exe command interpreter| 
@@ -39,7 +39,7 @@ A terminal also known as a command prompt(cmd) in Windows is an operating system
 
 ## Git Commands 
 
-| Command       | 	Definition  | 
+| Command       | 	Summary  | 
 | ------------- |:-------------:| 
 | git init 	    | initializes (creates) a git repository in the current directory| 
 | ls - a        | list hidden files| 
