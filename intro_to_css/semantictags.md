@@ -14,8 +14,6 @@ A semantic tag/element are tags that have a meaning. Many websites contain diffe
 `<article>
 <aside>
 <details>
-<figcaption>
-<figure>
 <footer>
 <header>
 <main>
@@ -23,7 +21,9 @@ A semantic tag/element are tags that have a meaning. Many websites contain diffe
 <nav>
 <section>
 <summary>
-<time>`
+<time>
+`
+
 
 
 Think about your About Me Projects and it's broken down for us learn more about you. 
