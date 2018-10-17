@@ -10,18 +10,7 @@ A semantic tag/element are tags that have a meaning. Many websites contain diffe
 
 
 ## List of Semantic Tags
-`<article>
-<aside>
-<details>
-<footer>
-<header>
-<main>
-<mark>
-<nav>
-<section>
-<summary>
-<time>
-`
+[Best CSS Resources To Use](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/intro_to_css)
 
 
 
