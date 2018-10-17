@@ -11,8 +11,7 @@ A semantic tag/element are tags that have a meaning. Many websites contain diffe
 
 ## List of Semantic Tags
 
-`
-<article>
+`<article>
 <aside>
 <details>
 <figcaption>
